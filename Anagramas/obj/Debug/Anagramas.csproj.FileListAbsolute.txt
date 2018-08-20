@@ -1,0 +1,14 @@
+C:\Users\hecto\Desktop\Anagramas\Anagramas\obj\Debug\Anagramas.csprojResolveAssemblyReference.cache
+C:\Users\hecto\Desktop\Anagramas\Anagramas\obj\Debug\Anagramas.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Desktop\Anagramas\Anagramas\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hecto\Desktop\Anagramas\Anagramas\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hecto\Desktop\Anagramas\Anagramas\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hecto\Desktop\Anagramas\Anagramas\bin\Debug\Anagramas.dll
+C:\Users\hecto\Desktop\Anagramas\Anagramas\bin\Debug\Anagramas.pdb
+C:\Users\hecto\Desktop\Anagramas\Anagramas\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hecto\Desktop\Anagramas\Anagramas\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hecto\Desktop\Anagramas\Anagramas\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\hecto\Desktop\Anagramas\Anagramas\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\hecto\Desktop\Anagramas\Anagramas\obj\Debug\Anagramas.csproj.CopyComplete
+C:\Users\hecto\Desktop\Anagramas\Anagramas\obj\Debug\Anagramas.dll
+C:\Users\hecto\Desktop\Anagramas\Anagramas\obj\Debug\Anagramas.pdb
